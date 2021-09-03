@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4BDBE8D6-D806-4F4C-BA85-BFFA557B09FE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Imgup.Main</StartupObject>
+    <RootNamespace>Imgup</RootNamespace>
+    <AssemblyName>Imgup</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Imgup.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Imgup.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="about.Designer.vb">
+      <DependentUpon>about.vb</DependentUpon>
+    </Compile>
+    <Compile Include="about.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="albuminfoform.Designer.vb">
+      <DependentUpon>albuminfoform.vb</DependentUpon>
+    </Compile>
+    <Compile Include="albuminfoform.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="albumprompt.Designer.vb">
+      <DependentUpon>albumprompt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="albumprompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="catpic.Designer.vb">
+      <DependentUpon>catpic.vb</DependentUpon>
+    </Compile>
+    <Compile Include="catpic.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Prompt.Designer.vb">
+      <DependentUpon>Prompt.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Prompt.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Region Drag.Designer.vb">
+      <DependentUpon>Region Drag.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Region Drag.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="results.Designer.vb">
+      <DependentUpon>results.vb</DependentUpon>
+    </Compile>
+    <Compile Include="results.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="settings.Designer.vb">
+      <DependentUpon>settings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="settings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="singleresult.Designer.vb">
+      <DependentUpon>singleresult.vb</DependentUpon>
+    </Compile>
+    <Compile Include="singleresult.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="about.resx">
+      <DependentUpon>about.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="albuminfoform.resx">
+      <DependentUpon>albuminfoform.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="albumprompt.resx">
+      <DependentUpon>albumprompt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="catpic.resx">
+      <DependentUpon>catpic.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Prompt.resx">
+      <DependentUpon>Prompt.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Region Drag.resx">
+      <DependentUpon>Region Drag.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="results.resx">
+      <DependentUpon>results.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="settings.resx">
+      <DependentUpon>settings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="singleresult.resx">
+      <DependentUpon>singleresult.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imgur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\facebook.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\twitter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reddit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stumbleupon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1384596921_Delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\imguplogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <None Include="Resources\refresh_icon&amp;32.png" />
+    <None Include="Resources\twitter_icon&amp;32.png" />
+    <None Include="Resources\facebook_icon&amp;32.png" />
+    <None Include="Resources\round1.png" />
+    <None Include="Resources\cursor_drag_arrow_icon&amp;32.png" />
+    <None Include="Resources\monitor_icon&amp;32.png" />
+    <None Include="Resources\pin_icon&amp;32.png" />
+    <None Include="Resources\round.png" />
+    <None Include="Resources\zoom_icon&amp;32.png" />
+    <None Include="Resources\round_and_up_icon&amp;24.png" />
+    <None Include="Resources\3x3_grid_icon&amp;32.png" />
+    <None Include="Resources\emotion_smile_icon&amp;32.png" />
+    <None Include="Resources\info_icon&amp;32.png" />
+    <None Include="Resources\delete_icon&amp;32.png" />
+    <None Include="Resources\share_2_icon&amp;32.png" />
+    <None Include="Resources\clipboard_past_icon&amp;32.png" />
+    <None Include="Resources\round_and_up_icon&amp;32.png" />
+    <None Include="Resources\wrench_plus_2_icon&amp;32.png" />
+    <None Include="Resources\photo_icon&amp;32.png" />
+    <None Include="Resources\camera.wav" />
+    <None Include="Resources\paypal-donate-button-copy.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,47 @@
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\bin\Debug\imgurdrop.exe
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\bin\Debug\imgurdrop.pdb
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\bin\Debug\imgurdrop.xml
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\obj\x86\Debug\imgurdrop.Form1.resources
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\obj\x86\Debug\imgurdrop.Resources.resources
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\obj\x86\Debug\imgurdrop.vbproj.GenerateResource.Cache
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\obj\x86\Debug\imgurdrop.exe
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\obj\x86\Debug\imgurdrop.xml
+C:\Users\Zach\AppData\Local\Temporary Projects\imgurdrop\obj\x86\Debug\imgurdrop.pdb
+C:\Users\Zach\documents\visual studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\imgurdrop.vbproj.GenerateResource.Cache
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\bin\Debug\Imgup.exe.config
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.Resources.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.results.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.singleresult.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\bin\Debug\Imgup.exe
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\bin\Debug\Imgup.pdb
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\bin\Debug\Imgup.xml
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.exe
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.xml
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.pdb
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.about.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.albumprompt.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.albuminfoform.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.catpic.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.prompt.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.settings.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.Main.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgurdrop\imgurdrop\obj\x86\Debug\Imgup.Region_Drag.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\bin\Debug\Imgup.exe.config
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.exe
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.xml
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.pdb
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\bin\Debug\Imgup.exe
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\bin\Debug\Imgup.pdb
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\bin\Debug\Imgup.xml
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.about.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.albuminfoform.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.albumprompt.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.catpic.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.Main.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.Resources.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.prompt.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.Region_Drag.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.results.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.settings.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\Imgup.singleresult.resources
+C:\Users\Zach\Documents\Visual Studio 2010\Projects\imgup\imgurdrop\obj\x86\Debug\imgurdrop.vbproj.GenerateResource.Cache
